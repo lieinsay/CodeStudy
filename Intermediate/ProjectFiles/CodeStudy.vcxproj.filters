@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CodeStudy.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{70FF0416-29EA-408C-B8C0-2FC728DB741D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CodeStudy.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CodeStudyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F43CE9A2-7F7A-4CB5-8623-89161AF021AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CodeStudy">
+      <UniqueIdentifier>{2F2CCCEC-7F45-423A-B7F0-136718DD59CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CodeStudy\CodeStudy.Build.cs">
+      <Filter>Source\CodeStudy</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CodeStudy\CodeStudy.cpp">
+      <Filter>Source\CodeStudy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CodeStudy\CodeStudy.h">
+      <Filter>Source\CodeStudy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CodeStudy\CodeStudyCharacter.cpp">
+      <Filter>Source\CodeStudy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CodeStudy\CodeStudyCharacter.h">
+      <Filter>Source\CodeStudy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CodeStudy\CodeStudyGameMode.cpp">
+      <Filter>Source\CodeStudy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CodeStudy\CodeStudyGameMode.h">
+      <Filter>Source\CodeStudy</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

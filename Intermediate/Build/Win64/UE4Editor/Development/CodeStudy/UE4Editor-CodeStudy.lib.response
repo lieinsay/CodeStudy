@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CodeStudy.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\LIE\UE4program\CodeStudy\Intermediate\Build\Win64\CodeStudyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\LIE\UE4program\CodeStudy\Intermediate\Build\Win64\UE4Editor\Development\CodeStudy\CodeStudy.cpp.obj"
+"D:\LIE\UE4program\CodeStudy\Intermediate\Build\Win64\UE4Editor\Development\CodeStudy\CodeStudyCharacter.cpp.obj"
+"D:\LIE\UE4program\CodeStudy\Intermediate\Build\Win64\UE4Editor\Development\CodeStudy\CodeStudyGameMode.cpp.obj"
+"D:\LIE\UE4program\CodeStudy\Intermediate\Build\Win64\UE4Editor\Development\CodeStudy\CodeStudy.init.gen.cpp.obj"
+"D:\LIE\UE4program\CodeStudy\Intermediate\Build\Win64\UE4Editor\Development\CodeStudy\CodeStudyCharacter.gen.cpp.obj"
+"D:\LIE\UE4program\CodeStudy\Intermediate\Build\Win64\UE4Editor\Development\CodeStudy\CodeStudyGameMode.gen.cpp.obj"
+"D:\LIE\UE4program\CodeStudy\Intermediate\Build\Win64\UE4Editor\Development\CodeStudy\Default.rc2.res"
+/OUT:"D:\LIE\UE4program\CodeStudy\Intermediate\Build\Win64\UE4Editor\Development\CodeStudy\UE4Editor-CodeStudy.lib"

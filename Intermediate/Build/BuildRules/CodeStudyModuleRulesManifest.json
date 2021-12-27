@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\LIE\\UE4program\\CodeStudy\\Source\\CodeStudy\\CodeStudy.Build.cs",
+		"D:\\LIE\\UE4program\\CodeStudy\\Source\\CodeStudy.Target.cs",
+		"D:\\LIE\\UE4program\\CodeStudy\\Source\\CodeStudyEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

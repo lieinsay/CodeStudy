@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CodeStudy",
+			"Path": "D:\\LIE\\UE4program\\CodeStudy\\Source\\CodeStudy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CodeStudyEditor",
+			"Path": "D:\\LIE\\UE4program\\CodeStudy\\Source\\CodeStudyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
